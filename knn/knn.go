@@ -9,10 +9,10 @@ import (
 
 	"github.com/gonum/matrix"
 	"gonum.org/v1/gonum/mat"
-	"github.com/sjwhitworth/golearn/base"
-	"github.com/sjwhitworth/golearn/kdtree"
-	"github.com/sjwhitworth/golearn/metrics/pairwise"
-	"github.com/sjwhitworth/golearn/utilities"
+	"github.com/agilab/golearn/base"
+	"github.com/agilab/golearn/kdtree"
+	"github.com/agilab/golearn/metrics/pairwise"
+	"github.com/agilab/golearn/utilities"
 )
 
 // A KNNClassifier consists of a data matrix, associated labels in the same order as the matrix, searching algorithm, and a distance function.

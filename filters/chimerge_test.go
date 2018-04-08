@@ -2,7 +2,7 @@ package filters
 
 import (
 	"fmt"
-	"github.com/sjwhitworth/golearn/base"
+	"github.com/agilab/golearn/base"
 	"testing"
 
 	. "github.com/smartystreets/goconvey/convey"

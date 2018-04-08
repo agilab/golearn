@@ -4,9 +4,9 @@ package main
 
 import (
 	"fmt"
-	"github.com/sjwhitworth/golearn/base"
-	"github.com/sjwhitworth/golearn/ensemble"
-	"github.com/sjwhitworth/golearn/evaluation"
+	"github.com/agilab/golearn/base"
+	"github.com/agilab/golearn/ensemble"
+	"github.com/agilab/golearn/evaluation"
 	"math"
 	"math/rand"
 )

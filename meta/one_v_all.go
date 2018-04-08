@@ -2,7 +2,7 @@ package meta
 
 import (
 	"fmt"
-	"github.com/sjwhitworth/golearn/base"
+	"github.com/agilab/golearn/base"
 )
 
 // OneVsAllModel replaces class Attributes with numeric versions
